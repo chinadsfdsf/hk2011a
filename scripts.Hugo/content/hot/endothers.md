@@ -34,6 +34,8 @@ categories:
 
 {{< mydiv4o link="https://hk2011.chinadsf.org/"   text="hk2011   2020年11月的新聞"  bg="lightsteelblue" >}}
 {{< mydiv4o link="https://hk2011a.chinadsf.org/"  text="hk2011a  2020年11月的新聞a" >}}
+{{< mydiv4o link="https://hk2011b.chinadsf.org/"  text="hk2011b  2020年11月的新聞b" >}}
+{{< mydiv4o link="https://hk2011c.chinadsf.org/"  text="hk2011c  2020年11月的新聞c" >}}
 
 {{< mybrline1 color="blue" >}}
 
